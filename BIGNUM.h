@@ -60,15 +60,19 @@ int bignum_init(char* str, BigNum* bigNum) {
 }
 
 int bignum_add(BigNum* a, BigNum* b, BigNum* c) {
+    return 0;
 }
 
 int bignum_sub(BigNum* a, BigNum* b, BigNum* c) {
+    return 0;
 }
 
 int bignum_mul(BigNum* a, BigNum* b, BigNum* c) {
+    return 0;
 }
 
 int bignum_div(BigNum* a, BigNum* b, BigNum* c) {
+    return 0;
 }
 
 int bignum_free(BigNum* bigNum) {
